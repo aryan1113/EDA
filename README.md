@@ -7,6 +7,5 @@ Insipiration : Introduction to EDA course on Dphi
 
 Todo :
  * Feature Engineering 
- * Building a predictor, which variables affect the suvivability of a passenger
  * Upload the predictor file on Kaggle
  * Build a dashboard using Panel
