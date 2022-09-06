@@ -3,7 +3,7 @@ EDA practice files\
 Learnt about : 
 1. Renaming columns
 2. Vertically stacking boxplots using subplots
-3. Using a heatmap
+3. Using a heatmap\
 Insipiration : Introduction to EDA course on Dphi
 
 Todo :
